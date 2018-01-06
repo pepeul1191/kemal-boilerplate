@@ -1,0 +1,17 @@
+name: demo
+version: 0.1.0
+
+authors:
+  - Pepe Valdivia <<jvaldivia@softweb.pe>>
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+
+targets:
+  demo:
+    main: src/demo.cr
+
+crystal: 0.24.1
+
+license: MIT
