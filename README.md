@@ -1,27 +1,14 @@
-# demo
+# Kemal Boilerplate
 
-TODO: Write a description here
+Instlación de Dependencias:
 
-## Installation
+    $ shards install && bower install
 
-TODO: Write installation instructions here
+Arrancar la aplicación:
 
-## Usage
+    $ crystal src/app.cr
 
-TODO: Write usage instructions here
+### Fuentes
 
-## Development
-
-TODO: Write development instructions here
-
-## Contributing
-
-1. Fork it ( https://github.com/[your-github-name]/demo/fork )
-2. Create your feature branch (git checkout -b my-new-feature)
-3. Commit your changes (git commit -am 'Add some feature')
-4. Push to the branch (git push origin my-new-feature)
-5. Create a new Pull Request
-
-## Contributors
-
-- [[your-github-name]](https://github.com/[your-github-name]) Pepe Valdivia - creator, maintainer
++ https://github.com/pepeul1191/tutoriales/blob/master/CrystalLang.md
++ http://kemalcr.com/guide/
