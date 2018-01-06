@@ -1,4 +1,5 @@
 require "kemal"
+require "json"
 require "../config/routes"
 
 get "/" do
