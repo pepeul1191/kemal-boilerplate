@@ -7,6 +7,10 @@ authors:
 dependencies:
   kemal:
     github: kemalcr/kemal
+  granite_orm:
+    github: amberframework/granite-orm
+  sqlite3:
+    github: crystal-lang/crystal-sqlite3
 
 targets:
   demo:
