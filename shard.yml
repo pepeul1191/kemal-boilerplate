@@ -10,7 +10,7 @@ dependencies:
 
 targets:
   demo:
-    main: src/demo.cr
+    main: src/app.cr
 
 crystal: 0.24.1
 
