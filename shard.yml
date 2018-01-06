@@ -13,5 +13,5 @@ targets:
     main: src/app.cr
 
 crystal: 0.24.1
-
+ 
 license: MIT

@@ -1,7 +1,8 @@
 require "kemal"
+require "./routes/hello"
 
 get "/" do
-  "Hello World xd!"
+  "URL Vacía"
 end
 
 Kemal.run
