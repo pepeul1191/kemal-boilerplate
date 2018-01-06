@@ -1,5 +1,5 @@
 require "kemal"
-require "./routes/hello"
+require "./config/routes"
 
 get "/" do
   "URL Vacía"
